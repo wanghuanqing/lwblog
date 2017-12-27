@@ -1,0 +1,2784 @@
+[ 2017-12-11T13:59:13+08:00 ] ::1 /blog2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-12-11T13:59:27+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T13:59:44+08:00 ] ::1 /blog2/index.php/home/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:06:39+08:00 ] ::1 /blog2/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-12-11T14:06:46+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:08:11+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:08:12+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:08:13+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:08:56+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:08:57+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:08:57+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:08:57+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:11:24+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:11:25+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:11:25+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:11:25+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:12:23+08:00 ] ::1 /blog2/index.php/home/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-12-11T14:21:26+08:00 ] ::1 /blog2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-12-11T14:24:30+08:00 ] ::1 /blog2/index.php/home/home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0078s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066416s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067392s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T14:24:35+08:00 ] ::1 /blog2/index.php/Home/home/layout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010744s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001954s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-11T14:24:36+08:00 ] ::1 /blog2/index.php/Home/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 48 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018558s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018558s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-12-11T14:49:57+08:00 ] ::1 /blog2/index.php/Home/home/case_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `info_share` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_share` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_share` ORDER BY `s_time` desc LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\d95f7739c20e194745d9895e5253d2be.php 第 26 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011720s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-11T14:50:04+08:00 ] ::1 /blog2/index.php/Home/home/article_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0059s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '胡思乱想' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '细语微言' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '前端入坑' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '后端崛起' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 30 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T14:50:15+08:00 ] ::1 /blog2/index.php/Home/home/article_view/id/80.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0010s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 80 [ RunTime:0.0166s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 80 LIMIT 1   [ RunTime:0.0020s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 80 [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"80" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"80" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '80' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 80  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-11T14:50:37+08:00 ] ::1 /blog2/index.php/Home/home/article_view/id/79.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0029s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 79 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 79 LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `info_blog` SET `commentnum`='2' WHERE `id` = 79 [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"79" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"79" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '79' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 79  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined variable: listblog C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 113 行.
+NOTIC: [8] Undefined variable: listblog C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 113 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-11T18:51:36+08:00 ] ::1 /blog2/index.php/Home/home/article_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '胡思乱想' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '细语微言' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '前端入坑' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '后端崛起' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 30 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:36:35+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/about_author.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_aboutauthor` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `info_aboutauthor`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\6249f9e04e3901de5c7a8a25d4269de8.php 第 27 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\6249f9e04e3901de5c7a8a25d4269de8.php 第 121 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:36:43+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 48 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:38:04+08:00 ] 110.89.252.203 /blog2/index.php/Home/Home/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 10,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 48 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:38:14+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/78.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 78 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 78 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 78 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"78" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"78" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '78' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 78  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:38:20+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/83.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 83 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '83' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 83  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:38:24+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/82.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 82 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 82 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 82 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"82" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"82" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '82' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 82  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:38:26+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/81.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 81 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '81' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 81  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:38:29+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/80.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 80 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 80 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 80 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"80" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"80" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '80' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 80  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:38:34+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/79.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 79 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 79 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='2' WHERE `id` = 79 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"79" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"79" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '79' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 79  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined variable: listblog C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 113 行.
+NOTIC: [8] Undefined variable: listblog C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 113 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:38:39+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/78.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 78 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 78 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 78 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"78" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"78" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '78' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 78  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:38:40+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_think.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` WHERE `type` = '胡思乱想' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '胡思乱想' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\b261dd795ff14295c49df3a4f0d24baf.php 第 32 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\b261dd795ff14295c49df3a4f0d24baf.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:38:46+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` WHERE `type` = '后端崛起' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '后端崛起' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\695367b1ecf8a5184459ac2011d7bffa.php 第 32 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\695367b1ecf8a5184459ac2011d7bffa.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:39:02+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/case_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_share` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_share` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_share` ORDER BY `s_time` desc LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\d95f7739c20e194745d9895e5253d2be.php 第 26 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:39:23+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/about_blog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_aboutblog` [ RunTime:0.0313s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_aboutblog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_aboutblog` ORDER BY id LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\f0af96bda490293cf28914d1aaec0842.php 第 29 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\f0af96bda490293cf28914d1aaec0842.php 第 116 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:39:27+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/about_author.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_aboutauthor` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_aboutauthor`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\6249f9e04e3901de5c7a8a25d4269de8.php 第 27 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\6249f9e04e3901de5c7a8a25d4269de8.php 第 121 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2017-12-11T19:49:35+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:49:36+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '胡思乱想' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '细语微言' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '前端入坑' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '后端崛起' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 31 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 31 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:49:45+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '胡思乱想' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '细语微言' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '前端入坑' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '后端崛起' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 30 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:50:14+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '胡思乱想' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '细语微言' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '前端入坑' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '后端崛起' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 31 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 31 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:50:14+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 48 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:50:15+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:50:16+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T19:50:22+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/case_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_share` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_share` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_share` ORDER BY `s_time` desc LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d95f7739c20e194745d9895e5253d2be.php 第 27 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d95f7739c20e194745d9895e5253d2be.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T20:17:50+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '胡思乱想' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '细语微言' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '前端入坑' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '后端崛起' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 31 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 31 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031260s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031260s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T20:17:52+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/case_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_share` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_share` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_share` ORDER BY `s_time` desc LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d95f7739c20e194745d9895e5253d2be.php 第 27 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d95f7739c20e194745d9895e5253d2be.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T20:17:53+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/diary.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_log` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_log` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_log` ORDER BY date desc LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\035535c686d736f9159fdb86d1e4c1be.php 第 31 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\035535c686d736f9159fdb86d1e4c1be.php 第 31 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\035535c686d736f9159fdb86d1e4c1be.php 第 95 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T20:17:55+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T20:17:57+08:00 ] 110.89.252.203 /blog2/index.php/Home/Home/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 10,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031259s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031259s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T20:17:59+08:00 ] 110.89.252.203 /blog2/index.php/Home/Home/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 20,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031259s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031259s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T20:18:00+08:00 ] 110.89.252.203 /blog2/index.php/Home/Home/index/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 30,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T20:18:03+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/38.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 38 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 38 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 38 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"38" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"38" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '38' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 38  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031259s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031259s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T20:19:27+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '胡思乱想' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '细语微言' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '前端入坑' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '后端崛起' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 31 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 31 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:14:05+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/76.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 76 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 76 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 76 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"76" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"76" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '76' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 76  [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:14:09+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/75.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 75 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 75 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 75 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"75" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"75" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '75' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 75  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:15:29+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/75.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 75 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 75 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 75 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"75" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"75" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '75' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 75  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:16:57+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/83.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 83 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '83' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 83  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:16:57+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/83.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 83 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '83' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 83  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:17:04+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/82.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 82 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 82 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 82 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"82" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"82" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '82' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 82  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:17:04+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/82.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 82 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 82 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 82 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"82" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"82" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '82' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 82  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:17:05+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/81.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 81 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '81' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 81  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:17:06+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/81.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 81 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '81' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 81  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:29+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/81.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 81 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '81' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 81  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:35+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/80.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 80 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 80 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 80 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"80" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"80" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '80' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 80  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:35+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/80.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 80 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 80 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 80 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"80" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"80" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '80' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 80  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015626s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015626s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:39+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/79.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 79 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 79 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='2' WHERE `id` = 79 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"79" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"79" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '79' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 79  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined variable: listblog C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 113 行.
+NOTIC: [8] Undefined variable: listblog C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 113 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:43+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/78.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 78 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 78 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 78 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"78" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"78" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '78' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 78  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015626s ]
+
+[ 2017-12-11T22:18:47+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/77.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 77 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 77 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 77 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"77" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"77" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '77' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 77  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031253s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:47+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/76.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 76 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 76 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 76 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"76" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"76" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '76' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 76  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:48+08:00 ] 14.17.3.65 /blog2/index.php/Home/home/article_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '胡思乱想' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '细语微言' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '前端入坑' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '后端崛起' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 30 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:48+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/75.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 75 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 75 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 75 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"75" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"75" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '75' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 75  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:50+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:52+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/83.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 83 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '83' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 83  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:56+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/82.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 82 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 82 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 82 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"82" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"82" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '82' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 82  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:18:57+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/81.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 81 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '81' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 81  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015626s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:19:53+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/81.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 81 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '81' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 81  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015626s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:19:54+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/81.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 81 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 81 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"81" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '81' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 81  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:20:03+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/80.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015627s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015627s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 80 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 80 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 80 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"80" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"80" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '80' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 80  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:20:05+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/79.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 79 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 79 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='2' WHERE `id` = 79 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"79" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"79" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '79' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 79  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined variable: listblog C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 113 行.
+NOTIC: [8] Undefined variable: listblog C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 113 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T22:20:09+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/83.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 83 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '83' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 83  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T23:03:14+08:00 ] 14.17.3.65 /blog2/index.php/Home/home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 48 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T23:15:36+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/83.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 83 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '83' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 83  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T23:15:40+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '胡思乱想' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '细语微言' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '前端入坑' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `type` = '后端崛起' ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 31 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 31 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\ddb42457403fe8efaefe0d7b34712c06.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T23:15:42+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_ad` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_ad` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_ad`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 49 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\d7afc08e88068689bd04637b9b480409.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T23:15:44+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/82.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 82 [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 82 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 82 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"82" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"82" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '82' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 82  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T23:15:45+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/83.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 83 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '83' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 83  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031251s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T23:15:57+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/83.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 83 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '83' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 83  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031251s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T23:16:32+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/83.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 83 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '83' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 83  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: photo C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: name C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 34 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-11T23:16:36+08:00 ] 110.89.252.203 /blog2/index.php/Home/home/article_view/id/83.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `info_blog` [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `looknum`=looknum+1 WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_comment` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `info_user` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_comment` WHERE `bid` = 83 LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `info_blog` SET `commentnum`='0' WHERE `id` = 83 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id<"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE ( id>"83" ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_comment` INNER JOIN info_user ON info_comment.uid = info_user.id  WHERE `bid` = '83' ORDER BY addtime desc LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_user`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` WHERE `id` = 83  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `info_blog` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `rtime` desc LIMIT 0,6   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `info_blog` ORDER BY `looknum` desc LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 31 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 33 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 156 行.
+NOTIC: [8] Undefined index: category_id C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 158 行.
+NOTIC: [8] Undefined variable: settings C:\wamp\www\blog2\Application\Runtime\Cache\Home\dc4bfa1b0bc82934cbf2aea40a6ae5f5.php 第 202 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031251s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

@@ -1,0 +1,54 @@
+[ 2017-11-16T16:14:46+08:00 ] ::1 /blog2/Application/Admin/View/admin/__PUBLIC__/home/plug/layui/css/layui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-11-16T16:14:46+08:00 ] ::1 /blog2/Application/Admin/View/admin/__PUBLIC__/home/css/timeline.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-11-16T16:14:46+08:00 ] ::1 /blog2/Application/Admin/View/admin/__PUBLIC__/home/css/animate.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-11-16T16:14:46+08:00 ] ::1 /blog2/Application/Admin/View/admin/__PUBLIC__/home/js/global.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-11-16T16:14:46+08:00 ] ::1 /blog2/Application/Admin/View/admin/__PUBLIC__/home/plug/layui/layui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-11-16T16:14:46+08:00 ] ::1 /blog2/Application/Admin/View/admin/__PUBLIC__/home/plug/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-11-16T16:14:46+08:00 ] ::1 /blog2/Application/Admin/View/admin/__PUBLIC__/home/css/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-11-16T16:14:46+08:00 ] ::1 /blog2/Application/Admin/View/admin/__PUBLIC__/home/images/Absolutely.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+
+[ 2017-11-16T16:14:47+08:00 ] ::1 /blog2/Application/Admin/View/admin/__PUBLIC__/home/images/Logo_40.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+

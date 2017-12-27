@@ -1,0 +1,84 @@
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: '';
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+@keyframes cc {
+    0% {
+        opacity: 0.4;
+        transform: scale(0.1);
+        top: -500px;
+    }
+    50% {
+        opacity: 0.4;
+        transform: scale(0.1) rotateX(90deg);
+        top: -50px;
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1) rotateX(0deg);
+        top: 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .login {
+        width: 95%!important;
+    }
+    .sr {
+        padding: 30px 70px!important;
+    }
+}
+
+html,
+body {}
+
+* {
+    font-family: "仿宋";
+}
+
+body {
+    background: #fff;
+    color: #383a3c;
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 1.25;
+    font-family: 'Raleway', Calibri, Arial, sans-serif;
+}
+
+a,
+button {
+    outline: none;
+}
+
+a {
+    color: #566473;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: #34495e;
+}
+
+section {
+    padding: 1em;
+    text-align: center;
+}
+
+p.ref {
+    text-align: center;
+    padding: 2em 1em;
+}
